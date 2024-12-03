@@ -1,0 +1,8 @@
+openai
+python-dotenv
+streamlit
+pandas
+cachetools
+streamlit-option-menu
+streamlit-ace
+markdown
